@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-p6@4w7$3crzw0xhf1lx5@34z#mlk+8n%+fdp=x&%wpzi*+(dr6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['book-service.tuannm.id.vn']
+ALLOWED_HOSTS = ['tuannm.id.vn', 'book-service.tuannm.id.vn']
 
 # Application definition
 
