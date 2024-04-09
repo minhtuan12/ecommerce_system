@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "django-416316",
+  "private_key_id": "c02e277de9dfd2b8a4e3b5a78a3162e29514db0a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWBWF5mM7nMJzM\nKTS68QQpmH8hlJeWhw5TW9ibhkF4LqsVg5Dd7pjTVZFNriZegcjX6wf9JT4D5Prr\np4pOQH/ddHU1vlv158wIAkmUrFhWnHDDw4xe8yucJqYN6utD23QVkwOvwK4UHuTQ\nFG8TVgrpQ5rHBc+326yaZxuYqizMIP720pA/eGWMyXtJv4OG/ga2O+zrDH7tONO4\nHvAUTrdHMd32ZxFe1Wav/XY/Xd6itQo7lMa3Ovf67iOnIxv1k1TRY0LeptEas2lq\nU19+bQ5VDxuudtUbLbZVyShk6EZ8jAvX7iCyp11dfAyHlv1FWpsY929oIfvdxST1\nUH7RonwxAgMBAAECggEAE1q4W56qOstbvz8lrWSAu/kPlb583A+qenij9lSYx6+F\npO3nV6p7jvBAIbxw+MpXpfuNeUw/tvLoqFRiFHxfwqtOn9NiO9Rezz20Tnj5oJro\nNWlaB7npi2i1DaCcH5IFZO8lj5wVGUVvEaVBO0Zje/qb0kdeqAKwPu9EcSqrQt5g\nUh8bTCXqCCLpC6FLbB0yj/pr66X8WcrNwCMH8XXIPphRr5kPF6qz5xKjIoD8GmPR\nyuZSsdyqTTqhpNFBLnXqdNkNIowkad754KMi4jX4IlcbhItwqGcBAoslZnJfzUel\nPE67lDFIKM0kZzjZRaY6Rv+it7qdu0JZjag1gWINrQKBgQDIfYPZsjULJJRac1QF\ngh1bqdrzCC5Zee07LDByPEonpvzWaZnY/UQu3Rezi3udmYhZG4Fk6hM7IyrVVc/z\nl1FToukrRDpJiw8yNqhnko7CQKylbWjxdPaFozDgXLQnlXCc+drIQVHoxXTuGEwL\nYOv+AUsM/7PyFIKW2AeeD1QHCwKBgQC/jqu22MzW/8+Zz9bbM8JmZycOtx506ArY\nX9LBKsaXThOImNwoGZKQNkDcUEQIjl6dXL/MAsQ9SPli3OECh4YSarbzjeknnCJr\n9Sx7US7LuNjaXRAIaVY+L12S+3aiQkpwab+pIryKivgIxmUPTrFJsz5769N0lIsq\n1TM5bNhfMwKBgD+TfbIUzrk/2kNseuJcRk8A58tVds0s2st+0cYH1EQKsfaT+hNT\nDMIHnjJzMrnhK9mF3VxQ1dRU7IpF8fF+tG1fJa1wr0MO87yqlHBziw2SUK0MqtCW\nlG4AN8mN3BsJSnKc0IHcJMs5gkDWN5cMHwmnA1OV6kwDsP2Ad7nphm3NAoGABAuX\nRL0/VisAz1a8StTE/jSfdogXdJCR6g/b+4hTuU5Ey1WvEIm5tqHurLhlN2kKRnh2\n9G/6hPDNk3Dmr479HdZzFqGgkt2RPIZo8hG800CME9BzTjorQBTv/PKihrqvp8AT\n9BZvtN1Kb6UA7VnUFKJcZ3GLfaLFbZojAstxplECgYEAt6BFA42B7c4IYZbMptFb\nuwrJMOrZLFjUynD3yZJ6Gp8kGklqVnrYzSElogNWPzKhu1BjRYT+z7i+/a8wyjkV\nH0nrQgVEkKrADZUME6d1Ng+WDzBeNyD1uY/Pibe0NCt7uZAldE/xj0hp6AKkWCRH\npiS2Ian5nsNPtj8DBSzjALk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bookstore@django-416316.iam.gserviceaccount.com",
+  "client_id": "109447688099576047352",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bookstore%40django-416316.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
