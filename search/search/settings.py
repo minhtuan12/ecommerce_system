@@ -36,7 +36,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'search',
-    'category',
     'service',
     'rest_framework'
 ]
@@ -51,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'clothes.urls'
+ROOT_URLCONF = 'search.urls'
 
 TEMPLATES = [
     {

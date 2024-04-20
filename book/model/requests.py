@@ -53,5 +53,5 @@ create_and_update_schema = {
         'required': True,
         'is_image': True
     },
-    'deleted_at': {}
+    'deleted': {}
 }

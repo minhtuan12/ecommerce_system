@@ -21,7 +21,7 @@ def verify_token(f):
             return response_error('Unauthorized', status.HTTP_401_UNAUTHORIZED)
 
         try:
-            url = "http://3.27.130.210/api/auth/info"
+            url = "http://user-service.tuannm.id.vn/api/auth/info"
             header = {
                 "Content-Type": "application/json",
                 "Authorization": token

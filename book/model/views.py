@@ -40,8 +40,8 @@ def books(request):
             Q(code__icontains = queries['q'].strip())
         )
 
-        if queries['category_id'] is not None:
-            book_list = book_list.filter(categories___id = ObjectId(queries['category_id']))
+    if queries['category_id'] is not None:
+        book_list = book_list.filter(categories___id = ObjectId(queries['category_id']))
 
     book_list = book_list[queries['from_page']:queries['to_page']]
 
@@ -175,7 +175,7 @@ def delete(request, id):
 
     book = Book.objects.filter(_id = ObjectId(id), deleted = 0)
     if not book:
-        return response_error('Book does not exist.', http_status.HTTP_400_BAD_REQUEST)
+        return response_error('Book does not exist.', http_status.HTTP_404_NOT_FOUND)
 
     book = book[0]
     book.deleted = 1

@@ -100,8 +100,9 @@ def call_api(request, url, params):
         result = requests.get(url, headers = header, params = params)
         result.raise_for_status()
 
-        if result.status_code == 200:
+        if result.json()['status'] == 'Success':
             return result.json()
+        return response_error(result.json()['message'], result.json()['status_code'])
 
     except HTTPError as http_err:
         response_error(f"HTTP error occurred: {http_err}")
